@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "adinferos:blocks/ash_log_top",
+        "side": "adinferos:blocks/ash_log"
+    }
+}

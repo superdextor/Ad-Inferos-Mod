@@ -1,0 +1,7 @@
+{
+    "parent": "adinferos:block/curse_confusion",
+    "textures": {
+        "particle": "adinferos:blocks/curse_wither",
+        "texture": "adinferos:blocks/curse_wither"
+    }
+}

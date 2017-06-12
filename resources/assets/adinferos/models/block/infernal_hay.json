@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "adinferos:blocks/infernal_hay_top",
+        "side": "adinferos:blocks/infernal_hay_side"
+    }
+}

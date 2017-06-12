@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "adinferos:blocks/inferno_crafting_table_front",
+        "down": "adinferos:blocks/inferno_planks",
+        "up": "adinferos:blocks/inferno_crafting_table_top",
+        "north": "adinferos:blocks/inferno_crafting_table_front",
+        "east": "adinferos:blocks/inferno_crafting_table_side",
+        "south": "adinferos:blocks/inferno_crafting_table_side",
+        "west": "adinferos:blocks/inferno_crafting_table_front"
+    }
+}

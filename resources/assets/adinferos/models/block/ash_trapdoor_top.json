@@ -1,0 +1,6 @@
+{
+    "parent": "block/trapdoor_top",
+    "textures": {
+        "texture": "adinferos:blocks/ash_trapdoor"
+    }
+}

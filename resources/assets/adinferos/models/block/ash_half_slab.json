@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "adinferos:blocks/ash_planks",
+        "top": "adinferos:blocks/ash_planks",
+        "side": "adinferos:blocks/ash_planks"
+    }
+}

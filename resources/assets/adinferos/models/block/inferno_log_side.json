@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "adinferos:blocks/inferno_log_top",
+        "side": "adinferos:blocks/inferno_log"
+    }
+}

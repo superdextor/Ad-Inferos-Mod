@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "adinferos:blocks/netherrack_furnace_top",
+        "front": "adinferos:blocks/extractor",
+        "side": "adinferos:blocks/netherrack_furnace_side"
+    }
+}

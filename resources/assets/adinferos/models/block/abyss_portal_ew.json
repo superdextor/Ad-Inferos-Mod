@@ -1,0 +1,7 @@
+{
+    "parent": "block/portal_ew",
+    "textures": {
+        "particle": "adinferos:blocks/abyss_portal",
+        "portal": "adinferos:blocks/abyss_portal"
+    }
+}

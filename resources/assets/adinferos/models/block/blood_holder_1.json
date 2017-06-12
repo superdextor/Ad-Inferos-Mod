@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "adinferos:blocks/blood_holder_1"
+    }
+}
