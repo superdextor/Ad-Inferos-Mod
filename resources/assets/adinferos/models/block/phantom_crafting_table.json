@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "adinferos:blocks/phantom_crafting_table_front",
+        "down": "adinferos:blocks/phantom_planks",
+        "up": "adinferos:blocks/phantom_crafting_table_top",
+        "north": "adinferos:blocks/phantom_crafting_table_front",
+        "east": "adinferos:blocks/phantom_crafting_table_side",
+        "south": "adinferos:blocks/phantom_crafting_table_side",
+        "west": "adinferos:blocks/phantom_crafting_table_front"
+    }
+}

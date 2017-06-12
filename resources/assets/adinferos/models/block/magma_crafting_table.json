@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "adinferos:blocks/magma_crafting_table_front",
+        "down": "adinferos:blocks/magma_planks",
+        "up": "adinferos:blocks/magma_crafting_table_top",
+        "north": "adinferos:blocks/magma_crafting_table_front",
+        "east": "adinferos:blocks/magma_crafting_table_side",
+        "south": "adinferos:blocks/magma_crafting_table_side",
+        "west": "adinferos:blocks/magma_crafting_table_front"
+    }
+}

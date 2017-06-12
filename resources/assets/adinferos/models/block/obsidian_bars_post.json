@@ -1,0 +1,7 @@
+{
+    "parent": "block/iron_bars_post",
+    "textures": {
+        "particle": "adinferos:blocks/obsidian_bars",
+        "bars": "adinferos:blocks/obsidian_bars"
+    }
+}

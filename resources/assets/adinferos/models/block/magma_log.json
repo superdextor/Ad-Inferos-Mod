@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "adinferos:blocks/magma_log_top",
+        "side": "adinferos:blocks/magma_log"
+    }
+}

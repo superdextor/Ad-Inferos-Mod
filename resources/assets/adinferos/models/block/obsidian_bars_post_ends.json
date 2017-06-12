@@ -1,0 +1,7 @@
+{
+    "parent": "block/iron_bars_post_ends",
+    "textures": {
+        "particle": "adinferos:blocks/obsidian_bars",
+        "edge": "adinferos:blocks/obsidian_bars"
+    }
+}

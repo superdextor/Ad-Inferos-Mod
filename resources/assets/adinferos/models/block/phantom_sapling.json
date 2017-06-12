@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "adinferos:blocks/phantom_sapling"
+    }
+}

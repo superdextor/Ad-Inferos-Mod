@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "adinferos:blocks/netherrack_spikes"
+    }
+}

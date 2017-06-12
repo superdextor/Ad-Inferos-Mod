@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "adinferos:blocks/phantom_door_lower",
+        "top": "adinferos:blocks/phantom_door_upper"
+    }
+}
