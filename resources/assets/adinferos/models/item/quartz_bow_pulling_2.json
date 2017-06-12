@@ -1,0 +1,6 @@
+{
+    "parent": "adinferos:item/quartz_bow",
+    "textures": {
+        "layer0": "adinferos:items/quartz_bow_pulling_2"
+    }
+}

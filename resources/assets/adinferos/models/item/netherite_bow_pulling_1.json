@@ -1,0 +1,6 @@
+{
+    "parent": "adinferos:item/netherite_bow",
+    "textures": {
+        "layer0": "adinferos:items/netherite_bow_pulling_1"
+    }
+}
