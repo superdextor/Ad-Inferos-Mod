@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "adinferos:phantom_pressure_plate_up" },
+        "powered=true": { "model": "adinferos:phantom_pressure_plate_down" }
+    }
+}

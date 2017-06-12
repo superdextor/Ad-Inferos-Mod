@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "obsidian=false": { "model": "adinferos:infernum_altar" },
+        "obsidian=true": { "model": "adinferos:obsidian_altar" }
+    }
+}

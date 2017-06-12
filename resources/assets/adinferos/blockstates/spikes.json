@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=default": { "model": "adinferos:netherrack_spikes" },
+        "variant=darkstone": { "model": "adinferos:darkstone_spikes" }
+    }
+}

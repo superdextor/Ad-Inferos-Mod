@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "half=bottom,variant=smooth_netherrack": { "model": "adinferos:smooth_netherrack_half_slab" },
+        "half=top,variant=smooth_netherrack": { "model": "adinferos:smooth_netherrack_upper_slab" },
+        "half=bottom,variant=obsidian": { "model": "adinferos:obsidian_half_slab" },
+        "half=top,variant=obsidian": { "model": "adinferos:obsidian_upper_slab" }
+    }
+}

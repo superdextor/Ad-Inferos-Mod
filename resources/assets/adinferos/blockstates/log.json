@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "axis=y,variant=inferno":  { "model": "adinferos:inferno_log" },
+        "axis=z,variant=inferno":   { "model": "adinferos:inferno_log", "x": 90 },
+        "axis=x,variant=inferno":   { "model": "adinferos:inferno_log", "x": 90, "y": 90 },
+        "axis=none,variant=inferno": { "model": "adinferos:inferno_bark" },
+        "axis=y,variant=magma":  { "model": "adinferos:magma_log" },
+        "axis=z,variant=magma":   { "model": "adinferos:magma_log", "x": 90 },
+        "axis=x,variant=magma":   { "model": "adinferos:magma_log", "x": 90, "y": 90 },
+        "axis=none,variant=magma": { "model": "adinferos:magma_bark" },
+        "axis=y,variant=phantom":  { "model": "adinferos:phantom_log" },
+        "axis=z,variant=phantom":   { "model": "adinferos:phantom_log", "x": 90 },
+        "axis=x,variant=phantom":   { "model": "adinferos:phantom_log", "x": 90, "y": 90 },
+        "axis=none,variant=phantom": { "model": "adinferos:phantom_bark" },
+        "axis=y,variant=ash":  { "model": "adinferos:ash_log" },
+        "axis=z,variant=ash":   { "model": "adinferos:ash_log", "x": 90 },
+        "axis=x,variant=ash":   { "model": "adinferos:ash_log", "x": 90, "y": 90 },
+        "axis=none,variant=ash": { "model": "adinferos:ash_bark" }
+    }
+}

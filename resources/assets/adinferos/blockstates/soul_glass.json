@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "ghost=false": [
+            { "model": "adinferos:soul_glass" }
+        ],
+        "ghost=true": [
+            { "model": "adinferos:soul_glass" }
+        ]
+    }
+}

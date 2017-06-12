@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "adinferos:infernal_hay" },
+        "axis=z": { "model": "adinferos:infernal_hay", "x": 90 },
+        "axis=x": { "model": "adinferos:infernal_hay", "x": 90, "y": 90 }
+    }
+}

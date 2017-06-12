@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=inferno":  { "model": "adinferos:inferno_planks" },
+        "variant=magma":  { "model": "adinferos:magma_planks" },
+        "variant=phantom":  { "model": "adinferos:phantom_planks" },
+        "variant=ash":  { "model": "adinferos:ash_planks" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "adinferos:soul_tnt" },
+            { "model": "adinferos:soul_tnt", "y": 90 },
+            { "model": "adinferos:soul_tnt", "y": 180 },
+            { "model": "adinferos:soul_tnt", "y": 270 }
+        ],
+        "explode=false": [
+            { "model": "adinferos:soul_tnt" },
+            { "model": "adinferos:soul_tnt", "y": 90 },
+            { "model": "adinferos:soul_tnt", "y": 180 },
+            { "model": "adinferos:soul_tnt", "y": 270 }
+        ],
+        "explode=true": [
+            { "model": "adinferos:soul_tnt" },
+            { "model": "adinferos:soul_tnt", "y": 90 },
+            { "model": "adinferos:soul_tnt", "y": 180 },
+            { "model": "adinferos:soul_tnt", "y": 270 }
+        ]
+    }
+}

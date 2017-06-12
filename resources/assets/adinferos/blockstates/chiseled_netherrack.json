@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "glowing=false": {"model": "adinferos:chiseled_netherrack"},
+        "glowing=true": {"model": "adinferos:chiseled_netherrack_glowing"}
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=default": { "model": "adinferos:netherite_ore" },
+        "variant=darkstone": { "model": "adinferos:netherite_ore_darkstone" }
+    }
+}

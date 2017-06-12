@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "customizable=false": { "model": "mob_spawner_cage" },
+        "customizable=true": { "model": "mob_spawner_cage" }
+    }
+}

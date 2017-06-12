@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=dust": { "model": "adinferos:wither_block" },
+        "variant=gem": { "model": "adinferos:wither_gem_block" }
+    }
+}

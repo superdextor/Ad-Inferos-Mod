@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=bottom,variant=inferno": { "model": "adinferos:inferno_half_slab" },
+        "half=top,variant=inferno": { "model": "adinferos:inferno_upper_slab" },
+        "half=bottom,variant=magma": { "model": "adinferos:magma_half_slab" },
+        "half=top,variant=magma": { "model": "adinferos:magma_upper_slab" },
+        "half=bottom,variant=phantom": { "model": "adinferos:phantom_half_slab" },
+        "half=top,variant=phantom": { "model": "adinferos:phantom_upper_slab" },
+        "half=bottom,variant=ash": { "model": "adinferos:ash_half_slab" },
+        "half=top,variant=ash": { "model": "adinferos:ash_upper_slab" }
+    }
+}

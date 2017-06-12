@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "adinferos:glowstone_torch" },
+        "facing=east": { "model": "adinferos:glowstone_torch_wall" },
+        "facing=south": { "model": "adinferos:glowstone_torch_wall", "y": 90 },
+        "facing=west": { "model": "adinferos:glowstone_torch_wall", "y": 180 },
+        "facing=north": { "model": "adinferos:glowstone_torch_wall", "y": 270 }
+    }
+}

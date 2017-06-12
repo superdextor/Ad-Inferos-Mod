@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "stage=0,type=inferno": { "model": "adinferos:inferno_sapling" },
+        "stage=1,type=inferno": { "model": "adinferos:inferno_sapling" },
+        "stage=0,type=magma": { "model": "adinferos:magma_sapling" },
+        "stage=1,type=magma": { "model": "adinferos:magma_sapling" },
+        "stage=0,type=phantom": { "model": "adinferos:phantom_sapling" },
+        "stage=1,type=phantom": { "model": "adinferos:phantom_sapling" },
+        "stage=0,type=ash": { "model": "adinferos:ash_sapling" },
+        "stage=1,type=ash": { "model": "adinferos:ash_sapling" }
+    }
+}

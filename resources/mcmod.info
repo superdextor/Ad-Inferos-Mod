@@ -1,0 +1,17 @@
+[
+{
+  "modid": "adinferos",
+  "name": "§e§k!!§6§k]]§c§kkk§4§lAd Inferos§c§kkk§6§k]]§e§k!!",
+  "description": "Feel that the Nether is getting boring, Then Ad Inferos is the Mod for You! Brand New Monsters, Dungeons, Bosses, Resources & the Abyss Dimension!",
+  "version": "§e1.11§6",
+  "mcversion": "1.11",
+  "url": "http://minecraft.curseforge.com/projects/ad-inferos",
+  "updateUrl": "",
+  "authorList": ["superdextor"],
+  "credits": "superdextor & the Think Big Team",
+  "logoFile": "Ad_Inferos_Logo.png",
+  "screenshots": [],
+  "requiredMods": [ "Forge", "thinkbigcore" ],
+  "dependencies": [ "thinkbigcore" ]
+}
+]

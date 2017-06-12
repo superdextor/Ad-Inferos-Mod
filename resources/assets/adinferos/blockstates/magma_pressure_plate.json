@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "adinferos:magma_pressure_plate_up" },
+        "powered=true": { "model": "adinferos:magma_pressure_plate_down" }
+    }
+}

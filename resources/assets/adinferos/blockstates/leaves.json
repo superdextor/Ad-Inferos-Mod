@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=inferno": { "model": "adinferos:inferno_leaves" },
+        "check_decay=false,decayable=true,variant=inferno": { "model": "adinferos:inferno_leaves" },
+        "check_decay=true,decayable=false,variant=inferno": { "model": "adinferos:inferno_leaves" },
+        "check_decay=false,decayable=false,variant=inferno": { "model": "adinferos:inferno_leaves" },
+        "check_decay=true,decayable=true,variant=magma": { "model": "adinferos:magma_leaves" },
+        "check_decay=false,decayable=true,variant=magma": { "model": "adinferos:magma_leaves" },
+        "check_decay=true,decayable=false,variant=magma": { "model": "adinferos:magma_leaves" },
+        "check_decay=false,decayable=false,variant=magma": { "model": "adinferos:magma_leaves" },
+        "check_decay=true,decayable=true,variant=phantom": { "model": "adinferos:phantom_leaves" },
+        "check_decay=false,decayable=true,variant=phantom": { "model": "adinferos:phantom_leaves" },
+        "check_decay=true,decayable=false,variant=phantom": { "model": "adinferos:phantom_leaves" },
+        "check_decay=false,decayable=false,variant=phantom": { "model": "adinferos:phantom_leaves" },
+        "check_decay=true,decayable=true,variant=ash": { "model": "adinferos:ash_leaves" },
+        "check_decay=false,decayable=true,variant=ash": { "model": "adinferos:ash_leaves" },
+        "check_decay=true,decayable=false,variant=ash": { "model": "adinferos:ash_leaves" },
+        "check_decay=false,decayable=false,variant=ash": { "model": "adinferos:ash_leaves" }
+    }
+}

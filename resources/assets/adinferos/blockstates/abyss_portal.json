@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "adinferos:abyss_portal_ew" },
+        "axis=x": { "model": "adinferos:abyss_portal_ns" }
+    }
+}

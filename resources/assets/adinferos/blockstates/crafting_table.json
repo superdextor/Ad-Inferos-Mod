@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=inferno":  { "model": "adinferos:inferno_crafting_table" },
+        "variant=magma":  { "model": "adinferos:magma_crafting_table" },
+        "variant=phantom":  { "model": "adinferos:phantom_crafting_table" },
+        "variant=ash":  { "model": "adinferos:ash_crafting_table" }
+    }
+}

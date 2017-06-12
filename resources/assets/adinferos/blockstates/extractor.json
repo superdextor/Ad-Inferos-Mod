@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "adinferos:extractor" },
+        "facing=south": { "model": "adinferos:extractor", "y": 180 },
+        "facing=west":  { "model": "adinferos:extractor", "y": 270 },
+        "facing=east":  { "model": "adinferos:extractor", "y": 90 }
+    }
+}

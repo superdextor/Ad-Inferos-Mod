@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "blood=0": {"model": "soul_sand"},
+        "blood=1": {"model": "adinferos:blood_holder_1"},
+        "blood=2": {"model": "adinferos:blood_holder_2"},
+        "blood=3": {"model": "adinferos:blood_holder_3"},
+        "blood=4": {"model": "adinferos:blood_holder_4"},
+        "blood=5": {"model": "adinferos:blood_holder_5"},
+        "blood=6": {"model": "adinferos:blood_holder_6"},
+        "blood=7": {"model": "adinferos:blood_holder_7"},
+        "blood=8": {"model": "adinferos:blood_holder_8"},
+        "blood=9": {"model": "adinferos:blood_holder_9"}
+    }
+}

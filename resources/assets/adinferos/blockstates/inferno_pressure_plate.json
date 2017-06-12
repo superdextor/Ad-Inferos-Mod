@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "adinferos:inferno_pressure_plate_up" },
+        "powered=true": { "model": "adinferos:inferno_pressure_plate_down" }
+    }
+}

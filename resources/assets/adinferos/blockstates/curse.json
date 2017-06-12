@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "variant=confusion": {"model": "adinferos:curse_confusion"},
+        "variant=fire": {"model": "adinferos:curse_fire"},
+        "variant=wither": {"model": "adinferos:curse_wither"},
+        "variant=poison": {"model": "adinferos:curse_poison"}
+    }
+}

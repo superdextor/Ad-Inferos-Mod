@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "half=bottom,variant=inferno": { "model": "adinferos:inferno_planks" },
+        "half=top,variant=inferno": { "model": "adinferos:inferno_planks" },
+        "half=bottom,variant=magma": { "model": "adinferos:magma_planks" },
+        "half=top,variant=magma": { "model": "adinferos:magma_planks" },
+        "half=bottom,variant=phantom": { "model": "adinferos:phantom_planks" },
+        "half=top,variant=phantom": { "model": "adinferos:phantom_planks" },
+        "half=bottom,variant=ash": { "model": "adinferos:ash_planks" },
+        "half=top,variant=ash": { "model": "adinferos:ash_planks" }
+    }
+}
