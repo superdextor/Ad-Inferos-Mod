@@ -1,0 +1,373 @@
+{
+  "music.victory": {
+    "sounds": [
+      {
+        "name": "adinferos:music/victory",
+        "stream": true
+      }
+    ]
+  },
+  "music.death": {
+    "sounds": [
+      {
+        "name": "adinferos:music/death",
+        "stream": true
+      }
+    ]
+  },
+  "music.infernum_avis": {
+    "sounds": [
+      {
+        "name": "adinferos:music/infernum_avis",
+        "stream": true
+      }
+    ]
+  },
+  "music.herobrine": {
+    "sounds": [
+      {
+        "name": "adinferos:music/herobrine",
+        "stream": true
+      }
+    ]
+  },
+  "music.abyss": {
+    "sounds": [
+      {
+        "name": "adinferos:music/abyss1",
+        "stream": true
+      },
+      {
+        "name": "adinferos:music/abyss2",
+        "stream": true
+      },
+      {
+        "name": "adinferos:music/abyss3",
+        "stream": true
+      },
+      {
+        "name": "adinferos:music/abyss4",
+        "stream": true
+      },
+      {
+        "name": "adinferos:music/abyss5",
+        "stream": true
+      },
+      {
+        "name": "adinferos:music/abyss6",
+        "stream": true
+      }
+    ]
+  },
+  "records.flames": {
+    "sounds": [
+      {
+        "name": "adinferos:records/flames",
+        "stream": true
+      }
+    ]
+  },
+  "records.awakened": {
+    "sounds": [
+      {
+        "name": "adinferos:music/infernum_avis",
+        "stream": true
+      }
+    ]
+  },
+  "records.darkness": {
+    "sounds": [
+      {
+        "name": "adinferos:records/darkness",
+        "stream": true
+      }
+    ]
+  },
+  "records.unknown": {
+    "sounds": [
+      {
+        "name": "adinferos:records/unknown",
+        "stream": true
+      }
+    ]
+  },
+  "entity.phantom.idle": {
+    "sounds": [
+      "adinferos:entitys/phantom/idle1",
+      "adinferos:entitys/phantom/idle2",
+      "adinferos:entitys/phantom/idle3",
+      "adinferos:entitys/phantom/idle4"
+    ],
+    "subtitle": "subtitles.entity.phantom.idle"
+  },
+  "entity.phantom.hurt": {
+    "sounds": [
+      "adinferos:entitys/phantom/hurt1",
+      "adinferos:entitys/phantom/hurt2"
+    ],
+    "subtitle": "subtitles.entity.phantom.hurt"
+  },
+  "entity.phantom.death": {
+    "sounds": [
+      "adinferos:entitys/phantom/death"
+    ],
+    "subtitle": "subtitles.entity.phantom.death"
+  },
+  "entity.summon": {
+    "sounds": [
+      "adinferos:other/summon"
+    ],
+    "subtitle": "subtitles.other.summon"
+  },
+  "ambient.spooky": {
+    "sounds": [
+      "adinferos:other/spooky1",
+      "adinferos:other/spooky2",
+      "adinferos:other/spooky3"
+    ],
+    "subtitle": "subtitles.other.spooky"
+  },
+  "entity.infernumavis.awaked": {
+    "sounds": [
+      "adinferos:entitys/infernumavis/awaked"
+    ],
+    "subtitle": "subtitles.entity.infernumavis.awaked"
+  },
+  "entity.infernumavis.hurt": {
+    "sounds": [
+      "adinferos:entitys/infernumavis/hurt1",
+      "adinferos:entitys/infernumavis/hurt2",
+      "adinferos:entitys/infernumavis/hurt3"
+    ],
+    "subtitle": "subtitles.entity.infernumavis.hurt"
+  },
+  "entity.infernumavis.sleeping": {
+    "sounds": [
+      "adinferos:entitys/infernumavis/sleeping1",
+      "adinferos:entitys/infernumavis/sleeping2",
+      "adinferos:entitys/infernumavis/sleeping3",
+      "adinferos:entitys/infernumavis/sleeping4"
+    ],
+    "subtitle": "subtitles.entity.infernumavis.sleeping"
+  },
+  "entity.infernumavis.angry": {
+    "sounds": [
+      "adinferos:entitys/infernumavis/angry1",
+      "adinferos:entitys/infernumavis/angry2",
+      "adinferos:entitys/infernumavis/angry3"
+    ],
+    "subtitle": "subtitles.entity.infernumavis.angry"
+  },
+  "entity.infernumavis.death": {
+    "sounds": [
+      "adinferos:entitys/infernumavis/death"
+    ],
+    "subtitle": "subtitles.entity.infernumavis.death"
+  },
+  "entity.curse.idle": {
+    "sounds": [
+      "adinferos:entitys/curse/idle1",
+      "adinferos:entitys/curse/idle2",
+      "adinferos:entitys/curse/idle3"
+    ],
+    "subtitle": "subtitles.entity.curse.idle"
+  },
+  "entity.curse.hurt": {
+    "sounds": [
+      "adinferos:entitys/curse/hurt1",
+      "adinferos:entitys/curse/hurt2"
+    ],
+    "subtitle": "subtitles.entity.curse.hurt"
+  },
+  "entity.curse.death": {
+    "sounds": [
+      "adinferos:entitys/curse/death"
+    ],
+    "subtitle": "subtitles.entity.curse.death"
+  },
+  "entity.reaper.idle": {
+    "sounds": [
+      "adinferos:entitys/reaper/idle1",
+      "adinferos:entitys/reaper/idle2",
+      "adinferos:entitys/reaper/idle3",
+      "adinferos:entitys/reaper/idle4"
+    ],
+    "subtitle": "subtitles.entity.reaper.idle"
+  },
+  "entity.reaper.angry": {
+    "sounds": [
+      "adinferos:entitys/reaper/angry1",
+      "adinferos:entitys/reaper/angry2"
+    ],
+    "subtitle": "subtitles.entity.reaper.angry"
+  },
+  "entity.reaper.hurt": {
+    "sounds": [
+      "adinferos:entitys/reaper/hurt1",
+      "adinferos:entitys/reaper/hurt2"
+    ],
+    "subtitle": "subtitles.entity.reaper.hurt"
+  },
+  "entity.reaper.death": {
+    "sounds": [
+      "adinferos:entitys/reaper/death"
+    ],
+    "subtitle": "subtitles.entity.reaper.death"
+  },
+  "entity.reaper.cloak": {
+    "sounds": [
+      "adinferos:entitys/reaper/cloak"
+    ],
+    "subtitle": "subtitles.entity.reaper.cloak"
+  },
+  "entity.reaper.dodge": {
+    "sounds": [
+      "adinferos:entitys/reaper/dodge1",
+      "adinferos:entitys/reaper/dodge2"
+    ],
+    "subtitle": "subtitles.entity.reaper.dodge"
+  },
+  "entity.blackwidow.idle": {
+    "sounds": [
+      "adinferos:entitys/blackwidow/say1",
+      "adinferos:entitys/blackwidow/say2",
+      "adinferos:entitys/blackwidow/say3",
+      "adinferos:entitys/blackwidow/say4"
+    ],
+    "subtitle": "subtitles.entity.blackwidow.idle"
+  },
+  "entity.blackwidow.hurt": {
+    "sounds": [
+      "adinferos:entitys/blackwidow/say1",
+      "adinferos:entitys/blackwidow/say2",
+      "adinferos:entitys/blackwidow/say3",
+      "adinferos:entitys/blackwidow/say4"
+    ],
+    "subtitle": "subtitles.entity.blackwidow.hurt"
+  },
+  "entity.blackwidow.death": {
+    "sounds": [
+      "adinferos:entitys/blackwidow/death"
+    ],
+    "subtitle": "subtitles.entity.blackwidow.death"
+  },
+  "entity.glowstoneskeleton.idle": {
+    "sounds": [
+      "adinferos:entitys/glowstoneskeleton/idle1",
+      "adinferos:entitys/glowstoneskeleton/idle2",
+      "adinferos:entitys/glowstoneskeleton/idle3"
+    ],
+    "subtitle": "subtitles.entity.glowstoneskeleton.idle"
+  },
+  "entity.glowstoneskeleton.hurt": {
+    "sounds": [
+      "adinferos:entitys/glowstoneskeleton/hurt1",
+      "adinferos:entitys/glowstoneskeleton/hurt2",
+      "adinferos:entitys/glowstoneskeleton/hurt3",
+      "adinferos:entitys/glowstoneskeleton/hurt3"
+    ],
+    "subtitle": "subtitles.entity.glowstoneskeleton.hurt"
+  },
+  "entity.glowstoneskeleton.death": {
+    "sounds": [
+      "adinferos:entitys/glowstoneskeleton/death"
+    ],
+    "subtitle": "subtitles.entity.glowstoneskeleton.death"
+  },
+  "entity.infernalchicken.say": {
+    "sounds": [
+      "adinferos:entitys/infernalchicken/say1",
+      "adinferos:entitys/infernalchicken/say2",
+      "adinferos:entitys/infernalchicken/say3"
+    ],
+    "subtitle": "subtitles.entity.infernalchicken.idle"
+  },
+  "entity.infernalchicken.hurt": {
+    "sounds": [
+      "adinferos:entitys/infernalchicken/hurt1",
+      "adinferos:entitys/infernalchicken/hurt2",
+      "adinferos:entitys/infernalchicken/hurt3"
+    ],
+    "subtitle": "subtitles.entity.infernalchicken.hurt"
+  },
+  "entity.infernalchicken.death": {
+    "sounds": [
+      "adinferos:entitys/infernalchicken/death"
+    ],
+    "subtitle": "subtitles.entity.infernalchicken.death"
+  },
+  "entity.obsidiansheepman.idle": {
+    "sounds": [
+      "adinferos:entitys/obsidiansheepman/idle1",
+      "adinferos:entitys/obsidiansheepman/idle2",
+      "adinferos:entitys/obsidiansheepman/idle3"
+    ],
+    "subtitle": "subtitles.entity.obsidiansheepman.idle"
+  },
+  "entity.obsidiansheepman.hurt": {
+    "sounds": [
+      "adinferos:entitys/obsidiansheepman/hurt1",
+      "adinferos:entitys/obsidiansheepman/hurt2",
+      "adinferos:entitys/obsidiansheepman/hurt3"
+    ],
+    "subtitle": "subtitles.entity.obsidiansheepman.hurt"
+  },
+  "entity.obsidiansheepman.angry": {
+    "sounds": [
+      "adinferos:entitys/obsidiansheepman/angry1",
+      "adinferos:entitys/obsidiansheepman/angry2",
+      "adinferos:entitys/obsidiansheepman/angry3"
+    ],
+    "subtitle": "subtitles.entity.obsidiansheepman.angry"
+  },
+  "entity.obsidiansheepman.death": {
+    "sounds": [
+      "adinferos:entitys/obsidiansheepman/death"
+    ],
+    "subtitle": "subtitles.entity.obsidiansheepman.death"
+  },
+  "entity.ghost.spawn": {
+    "sounds": [
+      "adinferos:entitys/ghost/spawn"
+    ],
+    "subtitle": "subtitles.entity.ghost.spawn"
+  },
+  "entity.ghost.idle": {
+    "sounds": [
+      "adinferos:entitys/ghost/idle1",
+      "adinferos:entitys/ghost/idle2",
+      "adinferos:entitys/ghost/idle3",
+      "adinferos:entitys/ghost/idle4",
+      "adinferos:entitys/ghost/idle5"
+    ],
+    "subtitle": "subtitles.entity.ghost.idle"
+  },
+  "entity.ghost.dive": {
+    "sounds": [
+      "adinferos:entitys/ghost/dive"
+    ],
+    "subtitle": "subtitles.entity.ghost.dive"
+  },
+  "entity.ghost.death": {
+    "sounds": [
+      "adinferos:entitys/ghost/death"
+    ],
+    "subtitle": "subtitles.entity.ghost.death"
+  },
+  "abyssportal.travel": {
+    "sounds": [
+      "adinferos:portal/travel"
+    ]
+  },
+  "abyssportal.trigger": {
+    "sounds": [
+      "adinferos:portal/trigger"
+    ]
+  },
+  "abyssportal.ambient": {
+    "sounds": [
+      "adinferos:portal/ambient"
+    ],
+    "subtitle": "subtitles.abyssportal.ambient"
+  }
+}
