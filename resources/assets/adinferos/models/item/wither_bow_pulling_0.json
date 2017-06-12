@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "adinferos:items/wither_bow_pulling_0"
+    }
+}

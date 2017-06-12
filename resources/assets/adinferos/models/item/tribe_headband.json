@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "adinferos:items/tribe_headband",
+        "layer1": "adinferos:items/tribe_headband_overlay"
+    }
+}
