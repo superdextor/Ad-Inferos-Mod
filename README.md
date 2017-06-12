@@ -1,5 +1,5 @@
 # Ad Inferos
-Ad Inferos is a Mod for Minecraft. It's main purpose focuses on enhancing the Nether, adding new resources, weapons, monsters, etc..
+Ad Inferos is a Mod for Minecraft. It's main purpose focuses on enhancing the Nether, adding new resources, weapons, monsters, etc...
 
 # Users
 Please download Ad Inferos from the following sites:
