@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side_alt",
+    "textures": {
+        "edge": "adinferos:blocks/soul_glass_pane_top",
+        "pane": "adinferos:blocks/soul_glass"
+    }
+}

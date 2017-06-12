@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "adinferos:blocks/purple_mushroom_block_stem"
+    }
+}

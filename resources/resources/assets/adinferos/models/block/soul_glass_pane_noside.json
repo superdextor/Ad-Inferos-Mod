@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside",
+    "textures": {
+        "pane": "adinferos:blocks/soul_glass"
+    }
+}

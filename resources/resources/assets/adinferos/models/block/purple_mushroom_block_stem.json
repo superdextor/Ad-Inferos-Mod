@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "adinferos:blocks/purple_mushroom_block_stem",
+        "end": "adinferos:blocks/purple_mushroom_block_inside"
+    }
+}
